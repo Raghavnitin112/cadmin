@@ -333,7 +333,7 @@
                                 <div id="submenu-9" class="collapse submenu" style="">
                                     <ul class="nav flex-column">
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Dashboard</a>
+                                            <a class="nav-link" href="affilatedashboard.php">Dashboard</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="affilateuserlist.php">Uses List</a>
